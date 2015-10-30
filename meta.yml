@@ -1,6 +1,6 @@
----
+name: Recorridos sobre listas
 locale: es
-language: xgobstones
+language: gobstones
 original_id_format: '%05d'
 learning: true
 beta: true
