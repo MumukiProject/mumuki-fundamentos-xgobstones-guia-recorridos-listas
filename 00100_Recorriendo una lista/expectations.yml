@@ -1,0 +1,11 @@
+expectations:
+- binding: longitud
+  inspection: HasArity:1
+- binding: longitud
+  inspection: HasUsage:isEmpty
+- binding: longitud
+  inspection: HasUsage:tail
+- binding: longitud
+  inspection: HasWhile
+- binding: longitud
+  inspection: Not:HasForeach  
