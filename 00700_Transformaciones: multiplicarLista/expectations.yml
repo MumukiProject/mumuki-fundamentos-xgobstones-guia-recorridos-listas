@@ -1,0 +1,5 @@
+expectations:
+- binding: multiplicarLista
+  inspection: HasArity:2
+- binding: multiplicarLista
+  inspection: HasRepeat

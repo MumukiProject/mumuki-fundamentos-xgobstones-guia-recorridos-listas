@@ -1,0 +1,15 @@
+subject: multiplicarLista
+
+examples:
+ - arguments:
+    - '[]'
+    - 2
+   return: '[]'
+ - arguments:
+    - '[1, 2]'
+    - 3
+   return: '[1, 2, 1, 2, 1, 2]'
+ - arguments:
+    - '[Norte]'
+    - 4
+   return: '[Norte, Norte, Norte, Norte]'

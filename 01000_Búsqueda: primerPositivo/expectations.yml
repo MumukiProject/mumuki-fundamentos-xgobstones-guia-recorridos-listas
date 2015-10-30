@@ -1,0 +1,7 @@
+expectations:
+- binding: primerPositivo
+  inspection: HasArity:1
+- binding: primerPositivo
+  inspection: HasWhile
+- binding: primerPositivo
+  inspection: Not:HasForeach

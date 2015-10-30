@@ -1,0 +1,9 @@
+subject: sinNegativos
+
+examples:
+ - arguments:
+    - '[]'
+   return: '[]'
+ - arguments:
+    - '[2, -4, 1, -3]'
+   return: '[2, 1]'

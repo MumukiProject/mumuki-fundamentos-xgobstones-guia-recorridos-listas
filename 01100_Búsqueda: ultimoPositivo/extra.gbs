@@ -1,0 +1,19 @@
+function reverso(lista) {
+	recorrido := []
+
+	foreach elem in lista {
+		recorrido := [elem] ++ recorrido
+	}
+
+	return (recorrido)
+}
+
+function primerPositivo(lista) {
+	recorrido := lista
+
+	while (head(recorrido) <= 0) {
+		recorrido := tail(recorrido)
+	}
+
+	return (head(recorrido))
+}

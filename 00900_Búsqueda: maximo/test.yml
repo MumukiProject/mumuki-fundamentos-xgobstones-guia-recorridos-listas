@@ -1,0 +1,12 @@
+subject: maximo
+
+examples:
+ - arguments:
+    - '[2, 4, 1]'
+   return: 4
+ - arguments:
+    - '[0, 0]'
+   return: 0
+ - arguments:
+    - '[-2, -3, -8]'
+   return: -2

@@ -1,0 +1,5 @@
+expectations:
+- binding: pares
+  inspection: HasArity:1
+- binding: pares
+  inspection: HasForeach

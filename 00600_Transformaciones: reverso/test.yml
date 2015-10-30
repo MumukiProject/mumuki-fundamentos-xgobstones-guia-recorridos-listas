@@ -1,0 +1,12 @@
+subject: reverso
+
+examples:
+ - arguments:
+    - '[]'
+   return: '[]'
+ - arguments:
+    - '[2, 4, 1]'
+   return: '[1, 4, 2]'
+ - arguments:
+    - '[Norte, Este]'
+   return: '[Este, Norte]'

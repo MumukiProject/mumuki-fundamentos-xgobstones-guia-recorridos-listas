@@ -1,0 +1,5 @@
+expectations:
+- binding: maximo
+  inspection: HasArity:1
+- binding: maximo
+  inspection: HasUsage:head
