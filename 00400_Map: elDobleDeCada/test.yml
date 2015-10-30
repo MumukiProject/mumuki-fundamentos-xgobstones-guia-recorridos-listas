@@ -1,0 +1,12 @@
+subject: elDobleDeCada
+
+examples:
+ - arguments:
+    - '[]'
+   return: '[]'
+ - arguments:
+    - '[2, 4, 1]'
+   return: '[4, 8, 2]'
+ - arguments:
+    - '[3]'
+   return: '[6]'

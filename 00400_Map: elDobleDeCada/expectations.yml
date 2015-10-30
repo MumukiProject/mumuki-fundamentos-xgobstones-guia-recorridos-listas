@@ -1,0 +1,3 @@
+expectations:
+- binding: elDobleDeCada
+  inspection: HasArity:1
