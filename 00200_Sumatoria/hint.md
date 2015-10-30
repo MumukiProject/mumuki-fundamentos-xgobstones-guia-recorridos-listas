@@ -1,0 +1,1 @@
+Recordá que podés acceder al primer elemento de una lista usando la función `head(lista)`.

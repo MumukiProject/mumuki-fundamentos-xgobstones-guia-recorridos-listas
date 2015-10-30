@@ -1,0 +1,1 @@
+Ahora que ya sabés cómo recorrer una lista, implementá la función `sumatoria`, que recibe una **lista de números** y devuelve el resultado de sumarlos (por ejemplo, `sumatoria(2, 2, 2)` debería devolver `6`).

@@ -1,0 +1,12 @@
+subject: sumatoria
+
+examples:
+ - arguments:
+    - '[]'
+   return: 0
+ - arguments:
+    - '[2, 2, 2]'
+   return: 6
+ - arguments:
+    - '[1, 3]'
+   return: 4

@@ -1,0 +1,13 @@
+expectations:
+- binding: sumatoria
+  inspection: HasArity:1
+- binding: sumatoria
+  inspection: HasUsage:isEmpty
+- binding: sumatoria
+  inspection: HasUsage:tail
+- binding: sumatoria
+  inspection: HasUsage:head
+- binding: sumatoria
+  inspection: HasWhile
+- binding: sumatoria
+  inspection: Not:HasForeach
