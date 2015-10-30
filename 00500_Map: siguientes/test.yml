@@ -1,0 +1,15 @@
+subject: siguientes
+
+examples:
+ - arguments:
+    - '[]'
+   return: '[]'
+ - arguments:
+    - '[2, 4, 1]'
+   return: '[3, 5, 2]'
+ - arguments:
+    - '[Norte]'
+   return: '[Este]'
+ - arguments:
+    - '[Azul]'
+   return: '[Negro]'   

@@ -1,0 +1,5 @@
+expectations:
+- binding: siguientes
+  inspection: HasArity:1
+- binding: siguientes
+  inspection: HasUsage:siguiente
