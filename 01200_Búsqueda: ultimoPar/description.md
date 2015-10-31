@@ -1,7 +1,3 @@
-Hagamos una más: implementá la función `siguientes`, que reciba una lista de números, direcciones o colores y devuelva otra lista con el siguiente de cada elemento. 
+En la misma línea del ejercicio anterior, te proponemos ahora implementar `ultimoPar` **sin escribir ni `while` ni `foreach`**.
 
-Algunos ejemplos:
-
-* `siguientes([1, 2]) -> [2, 3]`
-* `siguientes([Norte, Este]) -> [Este, Sur]`
-* `siguientes([Azul, Negro, Rojo, Verde]) -> [Negro, Rojo, Verde, Azul]`
+La estrategia es la misma: pensá qué funciones de las que ya hiciste te pueden servir y combinalas para lograr el resultado esperado.

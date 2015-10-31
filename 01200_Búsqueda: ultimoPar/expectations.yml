@@ -2,10 +2,6 @@ expectations:
 - binding: ultimoPositivo
   inspection: HasArity:1
 - binding: ultimoPositivo
-  inspection: HasUsage:primerPositivo
-- binding: ultimoPositivo
-  inspection: HasUsage:reverso
-- binding: ultimoPositivo
   inspection: Not:HasWhile
 - binding: ultimoPositivo
   inspection: Not:HasForeach

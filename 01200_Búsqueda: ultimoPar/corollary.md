@@ -1,3 +1,6 @@
-A este tipo de operaciones, que toman una lista, aplican alguna transformación sobre cada elemento y devuelven la nueva lista con el resultado de esas transformaciones se la suele conocer con el nombre de **map**.
+Nuevamente, se nos ocurren al menos 2 soluciones posibles:
 
-En este tipo de funciones, siempre vas a partir de una lista vacía, aplicar alguna función (multiplicar por 2, calcular el siguiente) y luego agregar el resultado al final de la lista. El `foreach` es un buen aliado, ya que tenés que sí o sí pasar por todos los elementos y respetar el orden.
+* filtrar la lista de `pares`, y quedarse con el último elemento (`last`)
+* tomar el `primerPar` del `reverso` de la lista original
+
+Y eso es uno de los puntos más interesantes de la programación: muchas veces no hay una sola forma de hacer las cosas. Cuál elijamos en cada caso dependerá de muchos factores (expresividad, mantenibilidad, costo, etc) que escapan a los objetivos de esta guía.

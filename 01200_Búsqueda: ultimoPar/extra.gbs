@@ -8,12 +8,25 @@ function reverso(lista) {
 	return (recorrido)
 }
 
-function primerPositivo(lista) {
+function primerPar(lista) {
 	recorrido := lista
 
-	while (head(recorrido) <= 0) {
+	while (not esPar(head(recorrido)) {
 		recorrido := tail(recorrido)
 	}
 
 	return (head(recorrido))
+}
+
+function pares(lista) {
+	resultado := []
+	foreach elem in lista {
+		if (esPar(elem)) { resultado := resultado ++ [elem] }
+	}
+	
+	return (resultado)
+}
+
+function esPar(numero) {
+	return (numero mod 2 == 0)
 }
