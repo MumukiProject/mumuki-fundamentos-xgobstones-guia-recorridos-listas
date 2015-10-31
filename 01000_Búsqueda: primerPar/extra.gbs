@@ -1,0 +1,3 @@
+function esPar(numero) {
+	return (numero mod 2 == 0)
+}

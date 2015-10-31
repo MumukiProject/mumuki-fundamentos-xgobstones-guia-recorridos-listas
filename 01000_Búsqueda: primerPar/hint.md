@@ -1,1 +1,3 @@
-Probablemente lo primero que se te ocurra es hacer `+ 1` a cada elemento, pero eso sólo te va a funcionar para los números. Acordate que Gobstones tiene una función `siguiente`, que funciona para números, colores y direcciones. :wink:
+Lo primero que tenés que pensar es: ¿necesito recorrer la lista entera o podría encontrar lo que quiero antes? Eso te va a dar la pauta de si te conviene usar un `while` o un `foreach`.
+
+Para simplificarte la tarea, podés tomá como precondición que **siempre va a haber al menos un par en la lista**.

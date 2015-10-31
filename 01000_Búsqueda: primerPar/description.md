@@ -1,7 +1,3 @@
-Hagamos una más: implementá la función `siguientes`, que reciba una lista de números, direcciones o colores y devuelva otra lista con el siguiente de cada elemento. 
+Veremos ahora un caso similar al anterior. En estos casos lo que nos va interesar es quedarnos con **un solo elemento** de una lista, aquel que cumpla con el criterio establecido. Llamaremos **búsqueda** a este tipo de operaciones.
 
-Algunos ejemplos:
-
-* `siguientes([1, 2]) -> [2, 3]`
-* `siguientes([Norte, Este]) -> [Este, Sur]`
-* `siguientes([Azul, Negro, Rojo, Verde]) -> [Negro, Rojo, Verde, Azul]`
+Utilizando _sin definir_ (te la damos nosotros) la función `esPar(numero)`, te pedimos que implementes `primerPar`, que recibe una lista de números y devuelve **el primero** que sea par.
