@@ -1,3 +1,1 @@
-¡Descubriste cómo filtrar una lista! 
-
-Seguinos, veamos un ejemplo un poquito más complejo.
+Ahora que ya sabés cómo filtrar una lista, avancemos con el último tipo de operación que veremos en esta guía: las **búsquedas**.
