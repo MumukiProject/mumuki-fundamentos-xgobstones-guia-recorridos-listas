@@ -1,4 +1,6 @@
-Probablemente te estés preguntando "¿no habrá una forma más simple de recorrer una lista?" y la respuesta es que sí: se llama **repetición indexada**, aunque es más conocida como **sentencia foreach**, o simplemente `foreach`. 
+Probablemente te estés preguntando _¿no habrá una forma más simple de recorrer una lista?_
+
+Y la respuesta es que sí: se llama **repetición indexada**, aunque es más conocida como **sentencia foreach**, o simplemente `foreach`. 
 
 Veamos cómo podrías haber implementado `sumatoria` usando `foreach`:
 
