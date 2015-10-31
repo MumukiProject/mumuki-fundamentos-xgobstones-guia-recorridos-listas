@@ -1,3 +1,9 @@
-A este tipo de operaciones, que toman una lista, aplican alguna transformación sobre cada elemento y devuelven la nueva lista con el resultado de esas transformaciones se la suele conocer con el nombre de **map**.
+Como ya sabés, no hay una sola forma de resolver problemas de programación. 
 
-En este tipo de funciones, siempre vas a partir de una lista vacía, aplicar alguna función (multiplicar por 2, calcular el siguiente) y luego agregar el resultado al final de la lista. El `foreach` es un buen aliado, ya que tenés que sí o sí pasar por todos los elementos y respetar el orden.
+Para esta función en particular, se nos ocurren al menos 3 variantes:
+
+* usar `foreach` sobre la lista original y **anteponer** cada elemento al resultado
+* lo mismo, pero usando `while` para recorrer la lista
+* recorrer la lista usando `last` e `init`, agregando el elemento **al final** de la lista resultado
+
+¡Animate a intentar resolverlo de las tres maneras!
