@@ -1,3 +1,3 @@
-A este tipo de operaciones, que toman una lista, aplican alguna transformación sobre cada elemento y devuelven la nueva lista con el resultado de esas transformaciones se la suele conocer con el nombre de **map**.
+¡Muy bien!
 
-En este tipo de funciones, siempre vas a partir de una lista vacía, aplicar alguna función (multiplicar por 2, calcular el siguiente) y luego agregar el resultado al final de la lista. El `foreach` es un buen aliado, ya que tenés que sí o sí pasar por todos los elementos y respetar el orden.
+La conclusión de este ejercicio es: **no siempre hace falta usar foreach o while para transformar listas**. Al aprender una nueva herramienta, es común querer usarla para todo y olvidarse de lo aprendido anteriormente; pero nunca te olvides del paso más importante a la hora de programar: **pensar tu solución**.

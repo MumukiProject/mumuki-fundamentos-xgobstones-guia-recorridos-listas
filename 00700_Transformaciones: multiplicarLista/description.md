@@ -1,7 +1,5 @@
-Hagamos una más: implementá la función `siguientes`, que reciba una lista de números, direcciones o colores y devuelva otra lista con el siguiente de cada elemento. 
+Vamos a hacer un último ejercicio de transformación. 
 
-Algunos ejemplos:
+Lo que se pide ahora es definir una función que sirva para _multiplicar_ una lista. ¿Y cómo sería esto? Por ejemplo, si multiplicamos 3 veces la lista `[1, 2]`, obtenemos como resultado `[1, 2, 1, 2, 1, 2]`, mientras que si la multiplicamos 2 veces obtenemos `[1, 2, 1, 2]`.
 
-* `siguientes([1, 2]) -> [2, 3]`
-* `siguientes([Norte, Este]) -> [Este, Sur]`
-* `siguientes([Azul, Negro, Rojo, Verde]) -> [Negro, Rojo, Verde, Azul]`
+> Creá la función `multiplicarLista(lista, cantidad)` que realice la operación descripta.
