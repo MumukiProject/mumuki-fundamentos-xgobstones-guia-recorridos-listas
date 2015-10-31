@@ -1,3 +1,0 @@
-expectations:
-- binding: maximoPositivos
-  inspection: HasArity:1
