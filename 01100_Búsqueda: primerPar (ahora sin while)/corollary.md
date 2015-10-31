@@ -1,0 +1,1 @@
+Como ya descubriste, una **búsqueda** puede pensarse también como una operación compuesta: un **filtro** para quedarte los elementos que te interesan y luego tomar la cabeza (`head`) de la lista resultante.

@@ -1,0 +1,12 @@
+function pares(lista) {
+	resultado := []
+	foreach elem in lista {
+		if (esPar(elem)) { resultado := resultado ++ [elem] }
+	}
+	
+	return (resultado)
+}
+
+function esPar(numero) {
+	return (numero mod 2 == 0)
+}
