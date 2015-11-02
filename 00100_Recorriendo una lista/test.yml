@@ -4,9 +4,21 @@ examples:
  - arguments:
     - '[]'
    return: 0
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
  - arguments:
     - '[1, 2, 3]'
    return: 3
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
  - arguments:
     - '[Azul, Rojo]'
    return: 2
+   initial_board: |
+    GBB/1.0
+    size 4 4
+    head 0 0   
