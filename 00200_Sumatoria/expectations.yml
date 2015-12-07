@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: sumatoria
   inspection: HasArity:1

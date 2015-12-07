@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: primerPositivo
   inspection: HasArity:1

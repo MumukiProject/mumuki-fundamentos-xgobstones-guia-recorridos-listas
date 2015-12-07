@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: reverso
   inspection: HasArity:1

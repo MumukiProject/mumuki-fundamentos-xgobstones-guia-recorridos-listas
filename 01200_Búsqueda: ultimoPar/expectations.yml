@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: ultimoPositivo
   inspection: HasArity:1

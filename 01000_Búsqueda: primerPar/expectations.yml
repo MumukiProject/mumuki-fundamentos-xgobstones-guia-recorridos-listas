@@ -1,11 +1,12 @@
+---
 expectations:
 - binding: primerPositivo
   inspection: HasArity:1
 - binding: primerPositivo
-  inspection: HasUsage:esPar  
+  inspection: HasUsage:esPar
 - binding: primerPositivo
   inspection: HasWhile
 - binding: primerPositivo
   inspection: Not:HasForeach
 - binding: primerPositivo
-  inspection: Not:HasVariable  
+  inspection: Not:HasVariable

@@ -1,4 +1,6 @@
+---
 tags:
 - foreach
 - fold
-locale: es
+layout: editor_right
+type: problem

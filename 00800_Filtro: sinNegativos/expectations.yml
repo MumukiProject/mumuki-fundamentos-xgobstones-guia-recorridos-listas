@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: sinNegativos
   inspection: HasArity:1

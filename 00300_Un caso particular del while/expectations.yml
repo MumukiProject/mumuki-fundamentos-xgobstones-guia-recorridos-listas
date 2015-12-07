@@ -1,7 +1,8 @@
+---
 expectations:
 - binding: longitud
   inspection: HasArity:1
 - binding: longitud
   inspection: HasForeach
 - binding: longitud
-  inspection: Not:HasWhile  
+  inspection: Not:HasWhile

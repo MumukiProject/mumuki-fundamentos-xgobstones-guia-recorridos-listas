@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: siguientes
   inspection: HasArity:1

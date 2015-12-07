@@ -1,9 +1,10 @@
+---
 expectations:
 - binding: multiplicarLista
   inspection: HasArity:2
 - binding: multiplicarLista
   inspection: HasRepeat
 - binding: multiplicarLista
-  inspection: Not:HasForeach  
+  inspection: Not:HasForeach
 - binding: multiplicarLista
   inspection: Not:HasWhile

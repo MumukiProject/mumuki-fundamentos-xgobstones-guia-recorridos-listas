@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: maximo
   inspection: HasArity:1

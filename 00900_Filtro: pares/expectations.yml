@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: pares
   inspection: HasArity:1

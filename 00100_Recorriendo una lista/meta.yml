@@ -1,6 +1,8 @@
+---
 tags:
 - recorrido
 - listas
 - while
 - fold
-locale: es
+layout: editor_right
+type: problem

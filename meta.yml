@@ -1,6 +1,21 @@
-name: Recorridos sobre listas
+---
+name: Recorridosss sobre listas
 locale: es
-language: gobstones
-original_id_format: '%05d'
 learning: true
 beta: true
+language: gobstones
+original_id_format: '%05d'
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 600
+- 700
+- 800
+- 900
+- 1000
+- 1100
+- 1200
+- 1300
