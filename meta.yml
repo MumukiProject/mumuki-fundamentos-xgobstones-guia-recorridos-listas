@@ -1,10 +1,10 @@
 ---
-name: Recorridoss sobre listas
+name: Recorridos sobre listas
 locale: es
-learning: true
+type: learning
 beta: true
 language: gobstones
-original_id_format: '%05d'
+id_format: '%05d'
 order:
 - 100
 - 200
