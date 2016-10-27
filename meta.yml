@@ -3,6 +3,7 @@ name: Recorridos sobre listas
 locale: es
 type: learning
 beta: true
+teacher_info: ''
 language: gobstones
 id_format: '%05d'
 order:

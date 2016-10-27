@@ -6,3 +6,7 @@ tags:
 - fold
 layout: editor_right
 type: problem
+extra_visible: false
+language: 
+teacher_info: 
+manual_evaluation: false
