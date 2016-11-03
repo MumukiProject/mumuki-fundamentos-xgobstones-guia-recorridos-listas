@@ -1,7 +1,8 @@
 ---
 tags:
 - filter
-layout: editor_right
+layout: input_right
+editor: code
 type: problem
 extra_visible: false
 language: 
