@@ -5,7 +5,7 @@ type: learning
 beta: true
 teacher_info: ''
 language: gobstones
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 100
 - 200

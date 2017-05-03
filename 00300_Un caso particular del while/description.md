@@ -4,7 +4,7 @@ Y la respuesta es que sí: se llama **repetición indexada**, aunque es más con
 
 Veamos cómo podrías haber implementado `sumatoria` usando `foreach`:
 
-```puppet
+```gobstones
 function sumatoria(lista) {
     suma := 0
 

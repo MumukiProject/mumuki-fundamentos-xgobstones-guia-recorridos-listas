@@ -2,7 +2,7 @@ Lo primero que nos va a interesar de una lista es aprender a **recorrerla**, y p
 
 Veamos, por ejemplo, el código necesario para contar la cantidad de elementos de una lista:
 
-```puppet
+```gobstones
 function longitud(lista) {
     recorrido := lista
     cantidad := 0
